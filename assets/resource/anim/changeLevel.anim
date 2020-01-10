@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "changeLevel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.7,
+          "value": 255
+        },
+        {
+          "frame": 1.8666666666666667,
+          "value": 0
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -215
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 360
+        },
+        {
+          "frame": 1.85,
+          "value": 360
+        },
+        {
+          "frame": 2.0166666666666666,
+          "value": -215
+        }
+      ]
+    }
+  },
+  "events": []
+}
