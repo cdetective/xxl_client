@@ -16,7 +16,10 @@
     "WebView",
     "NodePool",
     "3D",
-    "3D Primitive"
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
   ],
   "facebook": {
     "appID": "",
@@ -33,7 +36,7 @@
   "group-list": [
     "default"
   ],
-  "last-module-event-record-time": 1578505839637,
+  "last-module-event-record-time": 1585150168982,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
